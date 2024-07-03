@@ -90,3 +90,8 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+
+# myenv\Scripts\activate
+# streamlit run app.py
