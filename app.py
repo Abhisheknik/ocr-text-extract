@@ -5,6 +5,7 @@ from PIL import Image
 import tempfile
 import os
 
+
 EXCEL_FILE = "extracted_text.xlsx"
 
 def save_to_excel(new_data, output_path):
