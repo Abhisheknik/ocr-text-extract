@@ -1,4 +1,4 @@
-import streamlit as st 
+import streamlit as st
 import pandas as pd
 from ocr_utils import extract_text_from_image, extract_text_from_pdf, convert_pdf_to_images
 from PIL import Image
