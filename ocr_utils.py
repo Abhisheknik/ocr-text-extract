@@ -5,7 +5,7 @@ from pdf2image import convert_from_path
 from pdf2image.exceptions import PDFPageCountError, PDFSyntaxError
 
 # Set the TESSDATA_PREFIX environment variable (for Tesseract OCR)
-os.environ['TESSDATA_PREFIX'] = 'C:\\Program Files (x86)\\Tesseract-OCR\\'
+os.environ['TESSDATA_PREFIX'] = 'C:\Program Files (x86)\Tesseract-OCR'
 
 # Set the Tesseract executable path (adjust for your installation path)
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files (x86)\Tesseract-OCR\tesseract.exe'
