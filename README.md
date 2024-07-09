@@ -1,6 +1,5 @@
 # OCR Text Extractor
-
-![OCR Text Extractor Demo](demo/demo.gif)
+![OCR Text Extractor Demo](https://media.licdn.com/dms/image/C4D12AQGdRHs7NxZWlw/article-cover_image-shrink_720_1280/0/1630331386036?e=2147483647&v=beta&t=uxGLR2ugyugRDfAWTj10bnZAWp1Ok9Mj6nexcXuMD1M)
 
 ## Overview
 
